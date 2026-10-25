@@ -7,13 +7,3 @@ A responsive, pink-and-burgundy personal CV website for an Information Technolog
 **Live Vercel link:** Add your real deployment URL here after publishing.
 
 
-```
-index.html
-styles.css
-script.js
-assets/
-  mer.jpg                ← add your original photograph here
-  profile-placeholder.svg
-  favicon.svg
-README.md
-```
